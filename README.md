@@ -1,6 +1,9 @@
 # Lung-Cancer-Survival-Time-in-Days
 Prediction using Machine Learning and Deep Learning techniques
 
+For full paper please read:
+https://drive.google.com/file/d/1pQ4K-PtpYDawqwy3TwjVFGXT_G7_4YO3/view
+
 
 Abstract—To predict the survival of a patient from a single time
 point would be highly valuable as it would help in identifying
